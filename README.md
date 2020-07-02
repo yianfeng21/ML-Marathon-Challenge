@@ -1,8 +1,4 @@
 # ML-Marathon-Challenge
 ### 1st-DL+CVMarathon  
 
-- jupyter notebook background setting :  
-$ jupyter notebook  
-$ jt -r  
-$ jt -l  
-$ jt -t chesterish  
+![](./學習地圖與活動任務.jpg)
